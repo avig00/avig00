@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning chemical engineering, econometrcis, and machine learning.
 - 💞️ I’m looking to collaborate on innovative projects in the fields of engineering and machine learning. 
 - 📫 How to reach me: 
-            LinkedIn: linkedin.com/in/amogh-vig-a3980b1a0
+            LinkedIn: linkedin.com/in/amogh-vig-a3980b1a0;
             Email: vigamogh@gmail.com
 
 <!---
