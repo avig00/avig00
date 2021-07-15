@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avig00
+- 👋 Hi, I’m Amogh :D
 - 👀 I’m interested in applying AI/ML techniques to improve existing engineering processes, perhaps even creating entirely new ones.
 - 🌱 I’m currently learning chemical engineering, econometrics, and machine learning.
 - 💞️ I’m looking to collaborate on innovative projects in the fields of engineering and machine learning. 
