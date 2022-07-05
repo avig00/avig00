@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amogh :D
-- 👀 I’m interested in applying AI/ML techniques to improve existing engineering processes, perhaps even creating entirely new ones.
-- 🌱 I’m currently learning chemical engineering, econometrics, and machine learning.
-- 💞️ I’m looking to collaborate on innovative projects in the fields of engineering and machine learning. 
+- 👀 I’m interested in engineering, machine learning, and data science
+- 🌱 I’m currently a MS Data Science candidate at Vanderbilt University
+- 💞️ I’m looking to collaborate on innovative projects in the fields of engineering, machine learning, and data science
 - 📫 How to reach me: 
             LinkedIn: linkedin.com/in/amogh-vig-a3980b1a0;
             Email: vigamogh@gmail.com
