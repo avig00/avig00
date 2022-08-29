@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amogh :D
-- 👀 I’m interested in engineering, machine learning, and data science
+- 👀 I’m interested in software engineering, machine learning, and data science
 - 🌱 I’m currently a MS Data Science candidate at Vanderbilt University
 - 💞️ I’m looking to collaborate on innovative projects in the fields of engineering, machine learning, and data science
 - 📫 How to reach me: 
