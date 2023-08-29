@@ -3,7 +3,7 @@
 - 🌱 I’m currently an MS Data Science candidate at Vanderbilt University
 - 💞️ I’m looking to collaborate on innovative projects in the fields of data science, engineering, and finance
 - 📫 How to reach me: 
-            LinkedIn: linkedin.com/in/amogh-vig-a3980b1a0;
+            LinkedIn: https://www.linkedin.com/in/amoghvig/;
             Email: vigamogh@gmail.com
 
 <!---
