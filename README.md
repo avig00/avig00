@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amogh :D
-- 👀 I’m interested in data science, engineering, and finance
+- 👀 I’m interested in data science, engineering, and business
 - 🌱 I’m currently an MS Data Science candidate at Vanderbilt University
-- 💞️ I’m looking to collaborate on innovative projects in the fields of data science, engineering, and finance
+- 💞️ I’m looking to collaborate on innovative projects in the fields of data science, engineering, and business
 - 📫 How to reach me: 
             LinkedIn: https://www.linkedin.com/in/amoghvig/;
             Email: vigamogh@gmail.com
