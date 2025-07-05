@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amogh :D
 - 👀 I’m interested in applying data science in the insurance industry
-- 🌱 I’m currently an MS Data Science candidate at Vanderbilt University
+- 🌱 I’m a MS Data Science graduate from Vanderbilt University
 - 💞️ I’m looking to collaborate on innovative projects
 - 📫 How to reach me: 
             LinkedIn: https://www.linkedin.com/in/amoghvig/;
